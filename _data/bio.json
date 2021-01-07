@@ -6,7 +6,7 @@
     "email": "cvas@hawaii.edu",
     "phone": "",
     "website": "http://carlosparadis.com",
-    "summary": "I am a Ph.D. student in Computer Science. My dissertation focuses on the usefulness of automated groupings of text documents, in particular, their interpretability by humans.",
+    "summary": "I am a Ph.D. candidate in Computer Science. My dissertation focuses on the usefulness of automated groupings of text documents, in particular, their interpretability by humans.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -139,7 +139,7 @@
         "Demos: 1) http://www2.hawaii.edu/~cvas/topicflow/ ; 2) http://www2.hawaii.edu/~cvas/termite/ ",
         "Create an R package implementing final methodology, and reproducible results",
         "Work-in-progress Demo: http://itm0.shidler.hawaii.edu/kaona",
-        "Conference Article: To appear in AIAA Scitech Forum 2021"
+        "Forum Article: https://doi.org/10.2514/6.2021-1981"
       ]
     }, 
     {
@@ -217,6 +217,7 @@
          "Created scripts to calculate metrics from version control systems and issue trackers",
          "Defined static metrics to evaluate graph motifs on code collaboration social networks and discussion social networks",
          "Conference Poster: icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-",
+         "Journal Article: To appear on IEEE Transactions on Software Engineering"
       ]
     },
   {
@@ -298,7 +299,7 @@
         "Gathered and processed data (PDF format transcripts)", 
         "Created schema and data population pipeline of a PostgreSQL database",
         "Performed exploratory data analysis, association rule learning, and literature review.",
-        "Conference Article: http://doi.org/10.1109/ICMLA.2015.137"
+        "Conference Article: http://dx.doi.org/10.5753/cbie.sbie.2013.577"
       ]
     },    
     {
@@ -409,14 +410,23 @@ magazine of ACM, on its first semester.",
       ]
     }    
   ],
-  "publications": [
+  "publications": [    
     {
       "name": "Augmenting Topic Finding in the NASA Aviation Safety Reporting System using Topic Modeling",
-      "type": "conference",
+      "type": "Forum",
       "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
       "publisher": "2021 AIAA SciTech Forum",
+      "releaseDate": "2021",
+      "website": "https://doi.org/10.2514/6.2021-1981",
+      "summary": ""
+    },
+    {
+      "name": "In Search of Socio-Technical Congruence: A Large-Scale Longitudinal Study",
+      "type": "journal",
+      "author": "Wolfgang Mauerer, Mitchell Joblin, Damian A. Tamburri, Carlos Paradis, Rick Kazman, Sven Apel",
+      "publisher": "IEEE Transactions on Software Engineering",
       "releaseDate": "Date: To appear",
-      "website": "https://www.aiaa.org/SciTech",
+      "website": "https://www.computer.org/product/journals/tse",
       "summary": ""
     },    
     {
