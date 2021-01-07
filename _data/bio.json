@@ -413,7 +413,7 @@ magazine of ACM, on its first semester.",
   "publications": [    
     {
       "name": "Augmenting Topic Finding in the NASA Aviation Safety Reporting System using Topic Modeling",
-      "type": "Forum",
+      "type": "conference",
       "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
       "publisher": "2021 AIAA SciTech Forum",
       "releaseDate": "2021",
