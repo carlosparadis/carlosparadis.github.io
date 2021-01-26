@@ -107,6 +107,19 @@
     }
   ],
   "work": [
+     {
+      "company": "KBR at NASA Ames Research Center",
+      "position": "Applied Researcher in Natural Language Processing - Federal Contractor",
+      "website": "",
+      "startDate": "10/05/2020",
+      "endDate": "Current",
+      "summary": "Developing is applying Natural language Processing (NLP) technologies to streamline the development and certiﬁcation process for NASA missions",
+      "highlights": [      
+        "Develop a NLP capability to parse mission documents using machine learning techniques",
+        "Look for potential problems (such as contradictions or potential safety issues)",
+        "Evaluate the results with the help of mission developers"
+      ]
+    }, 
     {
       "company": "University of Hawaiʻi at Manoa  - Shidler School of Business",
       "position": "Graduate Research",
@@ -323,11 +336,31 @@
       "website": "",
       "position": "External Reviewer",
       "startDate": "2018",
-      "endDate": "2020",
+      "endDate": "2021",
       "summary": "",
       "highlights": [
       ]
     },
+     {
+      "organization": "Mining Software Repositories (MSR)",
+      "website": "",
+      "position": "Shadow Program Committee Member",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },    
+    {
+      "organization": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+      "website": "",
+      "position": "Reviewer",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },    
      {
       "organization": "International Conference on Machine Learning and Applications (ICMLA)",
       "website": "",
