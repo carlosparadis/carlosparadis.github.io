@@ -1,0 +1,588 @@
+{
+  "basics": {
+    "name": "Carlos Paradis",
+    "label": "Data Scientist",
+    "picture": "https://carlosparadis.github.io/images/profile_portfolio.png",
+    "email": "cvas@hawaii.edu",
+    "phone": "",
+    "website": "http://carlosparadis.com",
+    "summary": "I am a data scientist employed by KBR as a federal contractor for NASA. I hold a MS and PhD in Computer Science from the University of Hawaii at Manoa, and a MS in Software Engineering from the Stevens Institute of Technology. I am also a honor member of IEEE-HKN and ACM-UPE by the same institutions, a lifetime member of ACM, and a recipient of the Science Without Borders scholarship.",
+    "location": {
+      "address": "",
+      "postalCode": "94035",
+      "city": "Mountain View",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "GitHub: carlosparadis",
+        "url": "https://github.com/carlosparadis"
+      },
+      {
+        "network": "file outline",
+        "username": "NTRS: Carlos Paradis",
+        "url": "https://ntrs.nasa.gov/search?q=carlos%20paradis&author=Carlos%20Paradis"
+      },
+      {
+        "network": "circle",
+        "username": "ORCID: 0000-0002-3062-7547",
+        "url": "https://orcid.org/0000-0002-3062-7547"
+      } 
+    ]
+  },
+  "interests": [
+    {
+      "name": "mining software repositories",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "static code analysis",
+      "keywords": [
+      ]
+    },        
+    {
+      "name": "social network analysis",
+      "keywords": [
+      ]
+    },    
+    {
+      "name": "text mining",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "R",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaiʻi, Honolulu, HI",
+      "area": "Computer Science - GPA: 4.0",
+      "studyType": "PhD",
+      "startDate": "08/2016",
+      "endDate": "05/2021",
+      "gpa": "4.0",
+    "courses": [
+      ]
+    },
+  {
+      "institution": "University of Hawaiʻi, Honolulu, HI",
+      "area": "Computer Science - GPA: 4.0",
+      "studyType": "MS",
+      "startDate": "08/2014",
+      "endDate": "05/2016",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    },
+  {
+      "institution": "Stevens Institute of Technology, Hoboken, NJ",
+      "area": "Software Engineering - GPA: 3.92",
+      "studyType": "MS",
+      "startDate": "01/2012",
+      "endDate": "01/2014",
+      "gpa": "3.92",
+      "courses": [
+      ]
+    },
+  {
+      "institution": "Universidade Federal da Bahia, Brazil",
+      "area": "Computer Science - GPA: 9.5 (0-10)",
+      "studyType": "BS",
+      "startDate": "01/2009",
+      "endDate": "11/2013",
+      "gpa": "9.5 (0-10)",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+     {
+      "company": "KBR - NASA Ames Research Center",
+      "position": "Applied Researcher in Natural Language Processing - Federal Contractor",
+      "website": "",
+      "startDate": "2020-05-10",
+      "summary": "Applying Natural language Processing (NLP) technologies to streamline the development and certification process for NASA missions",
+      "highlights": [      
+        "Develop a NLP capability to parse mission documents using machine learning techniques",
+        "Look for potential problems (such as contradictions or potential safety issues)",
+        "Evaluate the results with the help of mission developers",
+        "List of public released and published work can be found here: https://ntrs.nasa.gov/search?author=Carlos%20Paradis"
+      ]
+    }, 
+    {
+      "company": "University of Hawaiʻi at Manoa  - Shidler School of Business",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "2020-01-01",
+      "endDate": "2021-05-13",
+      "summary": "Create a system to analyze software vulnerabilities evolution by mining software repositories ecosystems",
+      "highlights": [      
+        "Identify prospective methods to identify poor software development process in collaboration, coordination and communication",
+        "Identify prospective methods to identify poor architectural practices",
+        "Create a method to construct timelines of software vulnerabilities",
+        "Perform a case study in OpenSSL applying identified methods, in particular Heartbleed",
+        "Create an R package implementing final methodology, and reproducible results ",
+        "Docs/Demo: http://itm0.shidler.hawaii.edu/kaiaulu",
+        "Conference Article: https://doi.org/10.1007/978-3-031-15116-3_6",
+        "Pre-Print: https://arxiv.org/abs/2304.14570"
+      ]
+    },     
+    {
+      "company": "University of Hawaiʻi at Manoa - Shidler School of Business",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "2018-07-26",
+      "endDate": "2021-05-13",
+      "summary": "Identify novel safety incidents based on textual narratives for NASA's Aviation Safety Reporting System (ASRS)",
+      "highlights": [      
+        "Definition and analysis of the performance, stability and random effects of unsupervised text clustering algorithms",
+        "Definition of a protocol and design of survey  heuristics to assess the stability of machine learning results",
+        "Identify published methodologies for interpretation of text clustering results",
+        "Define an IRB compliant survey protocol for evaluation of different text clustering interpretation methodologies",
+        "Reuse and improvement of Legacy Code, and creation of data pipelines to supply data visualization tools ",
+        "Demos: 1) http://www2.hawaii.edu/~cvas/topicflow/ ; 2) http://www2.hawaii.edu/~cvas/termite/ ",
+        "Create an R package implementing final methodology, and reproducible results",
+        "Docs/Demo: http://itm0.shidler.hawaii.edu/kaona",
+        "Conference Article: https://doi.org/10.2514/6.2021-1981"
+      ]
+    }, 
+    {
+      "company": "Staffing Solutions at Kaiser Permanente",
+      "position": "Intern/Data Analyst",
+      "website": "",
+      "startDate": "2017-05-15",
+      "endDate": "2020-04-03",
+      "summary": "",
+      "highlights": [
+        "Designed and enhanced databases for predictive and prescriptive analytics",
+        "Designed and evaluated the effectiveness of statistical, probabilistic, and machine learning models",
+        "Elicited requirements, goals, and priorities from clinical and technical subject matter experts",
+        "Participated in the development of potential solutions, including outcome and process measures, and technical specifications",
+        "Translated needs, issues, and ideas into improved processes for patient care",
+        "Formulated specific implementation plans and evaluated the effectiveness of actions/programs implemented",
+        "Communicated results/recommendations to project sponsors, clients, and various senior level audiences"
+      ]
+    },          
+    {
+      "company": "University of Hawaiʻi at Manoa & University of Maryland",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "08/2016",
+      "endDate": "03/2020",
+      "summary": "Identified CVE-related Software Vulnerability Discourse on Online Mailing List using Topic Modelling",
+      "highlights": [
+        "Created Python Crawler to parse HTML Mailing Lists",
+        "Created taxonomy to classify different pre-processing strategies of raw corpus",
+        "Coded review student work via Github's pull requests",
+        "Performed Topic Modelling using R and LDA",
+        "Conference Article: https://doi.org/10.1109/ICMLA.2018.00121"
+      ]
+    },
+ 
+
+    {
+      "company": "University of Hawaiʻi at Manoa - School of Architecture",
+      "position": "Graduate Research / Data Engineer",
+      "website": "",
+      "startDate": "03/11/2016",
+      "endDate": "2019-12-31",
+      "summary": "Python coded data pipelines for sensor data processing, database storage, and R coded thermal comfort analyses. Performed Unix server administration duties to support architecture researchers.",
+      "highlights": [
+        "Simplified knowledge management and workflow between supervisor and students from architecture, engineering, and computer science",
+        "Proposed and code-reviewed a new continuous python sensor data collection plug-in architecture for the lab in Python, Lonoa (github.com/erdl/lonoa)",
+        "Implemented and explained model constraints for ASHRAE-55 PMV/PPD and Adaptive thermal comfort models (github.com/erdl/thermal_comfort).",
+        "Provided System Administrator support for the lab (SSH Access, Unix Package Management, and Security)",
+        "Proposed, designed, and code reviewed two Raspberry PI Environmental Projects (awarded Intel NCS Funding)",
+        "Designed database schema and code reviewed survey station code for environmental experiments (github.com/erdl/survey_admin)",
+        "Mentored undergraduate and master student projects",
+        "Conference Article: http://www.arcc-arch.org/past-conferences/ (ARCC 2019 Conference Proceedings)"        
+      ]
+    },
+  {
+      "company": "SGT at NASA Ames Research Center",
+      "position": "Intern II",
+      "website": "",
+      "startDate": "2018-05-21",
+      "endDate": "2018-08-17",
+      "summary": "Created a model of an attack surface between military drone communication by inserting a ‘liar’ 
+      script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory.",
+      "highlights": [
+        "Conference Article: doi.org/10.2514/6.2019-0770"
+      ]
+    },    
+  {
+      "company": "University of Hawaiʻi at Manoa & Siemens",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "09/2015",
+      "endDate": "12/2018",
+      "summary": "Identified associations between software companies' organizational structure and their software products.",
+      "highlights": [
+         "Created scripts to calculate metrics from version control systems and issue trackers",
+         "Defined static metrics to evaluate graph motifs on code collaboration social networks and discussion social networks",
+         "Conference Poster: icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-",
+         "Journal Article: To appear on IEEE Transactions on Software Engineering"
+      ]
+    },
+  {
+      "company": "University of Hawaiʻi at Manoa & HECO",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-08-31",
+      "summary": "Performed data mining/analytics of weather related data for renewable (solar) energy management in Hawaiʻi. (Master Thesis)",
+      "highlights": [
+        "Created a pipeline to collect data from various sensors across Hawaiʻi",
+        "Scrape associated metadata through websites and several visualizations to identify missing or biased values through multiple years",
+        "Used cluster methods to address time series granularity, probabilistic and linear models were also used to forecast solar irradiation on different sites",
+        "Conference Article: doi.org/10.1109/ICMLA.2015.137"
+      ]
+    },
+  {
+      "company": "University of Hawaiʻi at Manoa - Office of Public Health Studies",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "2015-03-12",
+      "endDate": "2015-05-06",
+      "summary": "Analyzed cross-sectional surveys conducted in Ethiopia by DHS to identify effects between sanitation and malnutrition.",
+      "highlights": [
+        "Performed systematic review (database search, snowballing, and inverse snowballing)",
+        "Surveyed, data pre-processed / cleansed and performed correlation analysis of variables of interest"
+      ]
+    },
+    {
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Lecturer",
+      "website": "",
+      "startDate": "10/2013",
+      "endDate": "02/2014",
+      "summary": "Lecturer for Information Systems Major",
+      "highlights": [
+        "Databases Lab",
+        "Data Structures",
+        "Information Retrieval",
+        "Material: I used a combination of lecture notes, Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate abstract concepts for freshman"
+      ]
+
+    },
+    {
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Undergraduate Teacher Assistant",
+      "website": "",
+      "startDate": "01/2012",
+      "endDate": "01/2013",
+      "summary": "Teacher Assistant for Computer Science Major",
+      "highlights": [
+          "Formal and Automata Languages",
+          "Programming Logic for Computer Science",
+          "Paradigms of Programming Languages",
+          "Activities consisted of giving lectures under professor supervision, assisted in creating material and grading, and organized guests coding dojos"
+      ]
+    },
+  {
+      "company": "University of Hawaiʻi at Manoa & Drexel University",
+      "position": "Undergraduate Research",
+      "website": "",
+      "startDate": "01/2012",
+      "endDate": "12/2013",
+      "summary": "Identified patterns of effort in software development.",
+      "highlights": [
+        "Gathered source code and issue tracker data (website, .xml, .csv, .xlsx) using Python and R and storage (PostgreSQL)",
+        "Performed summary statistics and correlation analysis reports",
+        "Journal Article: dx.doi.org/10.1016/j.jss.2014.11.015"
+      ]
+    },
+    {
+      "company": "Universidade Federal da Bahia - Formas",
+      "position": "Undergraduate Research",
+      "website": "",
+      "startDate": "11/2012",
+      "endDate": "07/2013",
+      "summary": "Identified patterns that would lead to STEM student retention in U. Federal da Bahia.",
+      "highlights": [
+        "Gathered and processed data (PDF format transcripts)", 
+        "Created schema and data population pipeline of a PostgreSQL database",
+        "Performed exploratory data analysis, association rule learning, and literature review.",
+        "Conference Article: http://dx.doi.org/10.5753/cbie.sbie.2013.577"
+      ]
+    },    
+    {
+      "company": "Universidade Federal da Bahia",
+      "position": "Undergraduate Research",
+      "website": "",
+      "startDate": "07/2011",
+      "endDate": "03/2013",
+      "summary": "Tracked and analyzed programmer behavior Eclipse IDE usage to better understand the impact of conceptualization in god class detection.",
+      "highlights": [
+         "Captured point and click on logs using Eclipse plugins",
+         "Collected and processed sequence data (.csv)",
+         "Performed exploratory data analysis and process mining",
+         "Conference Article: doi.org/10.1145/2460999.2461007"
+      ]
+    }
+  ],
+  "volunteer": [
+      {
+      "organization": "Journal of Aerospace Information Systems (JAIS)",
+      "website": "",
+      "position": "External Reviewer",
+      "startDate": "01/2018",
+      "endDate": "01/2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+     {
+      "organization": "Mining Software Repositories (MSR)",
+      "website": "",
+      "position": "Shadow Program Committee Member",
+      "startDate": "01/2021",
+      "endDate": "01/2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },    
+    {
+      "organization": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+      "website": "",
+      "position": "Reviewer",
+      "startDate": "01/2021",
+      "endDate": "01/2021",
+      "summary": "",
+      "highlights": [
+      ]
+    },    
+     {
+      "organization": "International Conference on Machine Learning and Applications (ICMLA)",
+      "website": "",
+      "position": "Program Committee Member",
+      "startDate": "01/2018",
+      "endDate": "01/2019",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+   {
+      "organization": "Intel Nervana",
+      "website": "",
+      "position": "Intel Nervana AI Academy Student Ambassador",
+      "startDate": "01/2017",
+      "endDate": "01/2018",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Code for Hawaiʻi",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "01/2017",
+      "endDate": "01/2017",
+      "summary": "I facilitate open-budget access for state of Hawaiʻi citizens, allowing them to make more informed decisions in choosing their state representatives by providing additional accessibility to candidates financial ties: Data cleaning and text linkage of various records concerning candidates campaign contribution distributed on different official pages of the state of Hawaiʻi are put together for navigation on a single website.",
+      "highlights": [
+      ]
+    },    
+  {
+      "organization": "EDBT/ICDT 2016 Joint Conference",
+      "website": "",
+      "position": "External Reviewer",
+      "startDate": "01/2016",
+      "endDate": "01/2016",
+      "summary": "",
+      "highlights": [
+      ]
+    },    
+  {
+      "organization": "Open Knowledge Brazil",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "01/2015",
+      "endDate": "01/2016",
+      "summary": "I volunteered as a data analyst for the Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google
+Impact Challenge in Brazil.
+The project goal was to analyze the city and state of São Paulo, and also the federal's fiscal year budget, serving
+as case study to implement the same method and tools to other cities. Mainly, the project sought to read between the
+government’s budget lines and understand where tax money was spent. My role in the team was to help write data stories, 
+finding and exploring what data was available in existing outdated websites, and help make it available of it through our website and/or API. I also explored
+in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability.
+",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Science without Borders Network 'Rede CsF'",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "01/2015",
+      "endDate": "01/2016",
+      "summary": "Rede CsF is a non-profit organization based in Brazil and created by students who were awarded the Science Without Border
+scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve science,
+technology, innovation and education. Within the network, I collaborate on the Open Data Awareness Project and the Intranet,
+the laterto coordinate over 40 contributors activities.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Association for Computing Machinery",
+      "website": "",
+      "position": "Chair of Student Chapter",
+      "startDate": "01/2010",
+      "endDate": "01/2011",
+      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness and supporting local computer science events. The chapter was featured on XRDS, the student
+magazine of ACM, on its first semester.",
+      "highlights": [
+      ]
+    }    
+  ],
+  "publications": [    
+    {
+      "name": "Augmenting Topic Finding in the NASA Aviation Safety Reporting System using Topic Modeling",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
+      "publisher": "2021 AIAA SciTech Forum",
+      "releaseDate": "01/2021",
+      "website": "https://doi.org/10.2514/6.2021-1981",
+      "summary": ""
+    },
+    {
+      "name": "In Search of Socio-Technical Congruence: A Large-Scale Longitudinal Study",
+      "type": "journal",
+      "author": "Wolfgang Mauerer, Mitchell Joblin, Damian A. Tamburri, Carlos Paradis, Rick Kazman, Sven Apel",
+      "publisher": "IEEE Transactions on Software Engineering",
+      "releaseDate": "01/2022",
+      "website": "https://www.computer.org/product/journals/tse",
+      "summary": ""
+    },    
+    {
+      "name": "Measured: Student Learning Through Monitoring Existing Buildings’ Energy Use And Occupant Comfort",
+      "type": "conference",
+      "author": "Meguro, W., Paradis, C.",
+      "publisher": "Architectural Research Centers Consortium (ARCC)",
+      "releaseDate": "01/2019",
+      "website": "http://www.arcc-arch.org/past-conferences/",
+      "summary": ""
+    },
+    {
+      "name": "Towards Explaining Security Defects in Complex Autonomous Aerospace Systems",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, and Misty D. Davies",
+      "publisher": "AIAA Scitech 2019 Forum",
+      "releaseDate": "01/2019",
+      "website": "https://doi.org/10.2514/6.2019-0770",
+      "summary": ""
+    },
+    {
+      "name": "Indexing Text Related to Software Vulnerabilities in Noisy Communities Through Topic Modelling",
+      "type": "conference",
+      "author": "C. Paradis, R. Kazman and P. Wang",
+      "publisher": "2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA 2018)",
+      "releaseDate": "01/2018",
+      "website": "https://doi.org/10.1109/ICMLA.2018.00121",
+      "summary": ""
+    },
+    {
+      "name": "Conway: Law or not?",
+      "type": "conference",
+      "author": "Wolfgang Mauerer, Mitchell Joblin, Damian Andrew Tamburri, Carlos Paradis, Sven Apel, and Rick Kazman",
+      "publisher": "2018 40th International Conference On Software Engineering 2018 (ICSE 2018)",
+      "releaseDate": "01/018",
+      "website": "https://www.icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-",
+      "summary": ""
+    },
+    {
+      "name": "Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications",
+      "type": "conference",
+      "author": "SILVA, Carlos V. A. ; LIM, Lipyeow ; STEVENS, Duane ; NAKAFUJI, Dora",
+      "publisher": " Internacional Conference on Machine Learning and Applications, Special Track on Machine Learning on Energy Applications (ICMLA 2015)",
+      "releaseDate": "01/2015",
+      "website": "https://doi.org/10.1109/ICMLA.2015.137",
+      "summary": ""
+    },
+    {
+      "name": "Manufacturing execution systems: A vision for managing software development, Journal of Systems and Software",
+      "type": "journal",
+      "author": "Martin Naedele, Hong-Mei Chen, Rick Kazman, Yuanfang Cai, Lu Xiao, Carlos V.A. Silva",
+      "publisher": "Journal of Systems and Software, Volume 101, Pages 59-68, ISSN 0164-1212",
+      "releaseDate": "01/2015",
+      "website": "http://dx.doi.org/10.1016/j.jss.2014.11.015",
+      "summary": ""
+    },
+    {
+      "name": "Mining Retention Rules from Student Transcripts: A Case Study of the Information Systems programme at a Federal University",
+      "type": "conference",
+      "author": "SILVA, C. V. A. ; SANTOS, M. S. ; Claro, D.B. ; Silva, Veronica ; SILVA, M. ; RIBEIRO, S. ; TELLES, A. R. ; LOPES, D.",
+      "publisher": "Anais do Simpósio Brasileiro de Informática na Educação, v. 1, p. 1, 2013",
+      "releaseDate": "01/2013",
+      "website": "http://dx.doi.org/10.5753/cbie.sbie.2013.577",
+      "summary": ""
+    },
+    {
+      "name": "An exploratory study to investigate the impact of conceptualization in god class detection",
+      "type": "conference",
+      "author": "SANTOS, JOSÉ A. M. ; DE MENDONÇA, MANOEL G. ; SILVA, CARLOS V. A",
+      "publisher": "Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering - EASE ‘13",
+      "releaseDate": "01/2013",
+      "website": "https://doi.org/10.1145/2460999.2461007",
+      "summary": ""
+    },
+    {
+      "name": "Teaching Software Engineering Fundamentals in an Introductory Computer Programming Course",
+      "type": "conference",
+      "author": "ALMEIDA, E.S ; MACHADO, I. C. ; SILVA, C. V. A. ; GOMES, G. S. S.",
+      "publisher": "Fórum de Educação em Engenharia de Software (FEES), 2011, São Paulo",
+      "releaseDate": "01/2011",
+      "website": "http://fees.inf.puc-rio.br/FEESArtigos/papers_by_conference.lp?conference=FEES11",
+      "summary": ""
+    }          
+  ],  
+  "awards": [
+    {
+      "title": "ICS Achievement Scholarship",
+      "startDate": "08/2017",
+      "endDate": "08/2020",
+    "awarder": "University of Hawaiʻi at Manoa"
+    },
+    {
+      "title": "Featured Idea and Intel NCS Funding",
+      "date": "08/2017",
+    "awarder": "Intel"
+    },    
+    {
+      "title": "IEEE HKN",
+    "startDate": "2016",
+    "endDate": "2017",
+    "awarder": "IEEE Honor Society HKN Delta Omega"
+    },
+  {
+      "title": "Golden Key Honors Member",
+    "date": "02/2015",
+    "awarder": "Golden Key International Honour Society"
+    },    
+  {
+      "title": "Featured Student Brazilian Award",
+    "date": "11/2013",
+    "awarder": "Brazilian Computer Society"
+    },
+   {
+      "title": "Science Without Borders - Capes and LASPAU",
+      "date": "01/2012",
+    "awarder": "Ciencia Sem Fronteiras"
+    },
+  {
+      "title": "ACM UPE",
+    "date": "04/2012",
+    "awarder": "ACM Honor Society UPE"
+    }    
+  ]
+}
