@@ -206,3 +206,12 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+orcid:
+  name: ORCID
+  icon: icon-file-empty
+ntrs:
+  name: NTRS
+  icon: icon-star-empty
+dblp:
+  name: DBLP
+  icon: icon-book  
