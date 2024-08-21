@@ -338,6 +338,15 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "University of Hawaii at Manoa",
+      "website": "https://github.com/sailuh/kaiaulu_cheatsheet/tree/main/poster",
+      "position": "Stakeholder/Mentor - ICS 496",
+      "startDate": "08/2023",
+      "summary": "I serve as a stakeholder/mentor for UH Manoa ICS 496 Capstone projects. The students contribute code and posters (https://github.com/sailuh/kaiaulu_cheatsheet/tree/main/poster) to the open source tool Kaiaulu, which was part of my PhD dissertation also at UH Manoa, and has since been published in a number of scientific works. See project URL for posters, or the tool GitHub (https://github.com/sailuh/kaiaulu) for their contributions.",
+      "highlights": [
+      ]
+    },    
       {
       "organization": "Journal of Aerospace Information Systems (JAIS)",
       "website": "",
@@ -450,7 +459,115 @@ magazine of ACM, on its first semester.",
       ]
     }    
   ],
-  "publications": [    
+  "publications": [   
+    {
+      "name": "A Socio-technical Perspective on Software Vulnerabilities: A Causal Analysis (To appear)",
+      "type": "journal",
+      "author": "Carlos Paradis, Rick Kazman, and Mike Konrad",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "08/2024",
+      "website": "Information and Software Technology - Special Issue on Causal Modeling",
+      "summary": ""
+    },     
+    {
+      "name": "Textual and Network Analysis of Title 14 CFR Part 107 Waivers (To Appear)",
+      "type": "conference",
+      "author": "Ethan Jordan, Carlos Paradis, Misty Davies, and Charles Werner",
+      "publisher": "2024 Digital Avionics Systems Conference (DASC'24)",
+      "releaseDate": "09/2024",
+      "website": "",
+      "summary": ""
+    },        
+    {
+      "name": "A Grounded Theory of UAS Reported Accidents",
+      "type": "conference",
+      "author": "Carlos Paradis, Seydou Mbaye, Misty Davies, Charles Werner",
+      "publisher": "2024 AIAA Aviation Forum",
+      "releaseDate": "06/2024",
+      "website": "https://ntrs.nasa.gov/citations/20240007803",
+      "summary": ""
+    },                
+    {
+      "name": "Analyzing the Tower of Babel with Kaiaulu",
+      "type": "journal",
+      "author": "Carlos Paradis, Rick Kazman, and Damaian Tamburri",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "04/2024",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121224000104",
+      "summary": ""
+    },
+    {
+      "name": "Making Team Projects with Novices More Effective: An Experience Report",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, and Anthony Peruma",
+      "publisher": "Hawaii International Conference on System Sciences 2024",
+      "releaseDate": "01/2024",
+      "website": "https://hdl.handle.net/10125/107313",
+      "summary": ""
+    },            
+    {
+      "name": "Building the MSR Tool Kaiaulu: Design Principles and Experiences",
+      "type": "journal",
+      "author": "Carlos Paradis, and Rick Kazman",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "04/2024",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121224000104",
+      "summary": ""
+    },               
+    {
+      "name": "Analyzing the Relationship between Community and Design Smells in Open-Source Software Projects: An Empirical Study",
+      "type": "conference",
+      "author": "Haris Mumtaz, Carlos Paradis, Fabio Palomba, Damian Tamburri, Rick Kazman, and Kelly Blincoe",
+      "publisher": "Proceedings of the 15th International Conference on Cooperative and Human Aspects of Software Engineering",
+      "releaseDate": "04/2024",
+      "website": "https://doi.org/10.1145/3528579.3529181",
+      "summary": ""
+    },      
+    {
+      "name": "Design Choices in Building an MSR Tool: The Case of Kaiaulu",
+      "type": "conference",
+      "author": "Carlos Paradis, and Rick Kazman",
+      "publisher": " Companion Proceedings of the 15th European Conference on Software Architecture",
+      "releaseDate": "04/2024",
+      "website": "https://ceur-ws.org/Vol-2978/",
+      "summary": ""
+    },              
+    {
+      "name": "Assessing the Use of UAS-Related Terms in ASRS Using Seed Topic Modeling",
+      "type": "conference",
+      "author": "Carlos Paradis, Misty Davies, Becky Hooey",
+      "publisher": "2023 AIAA SciTech Forum",
+      "releaseDate": "11/2023",
+      "website": "https://ntrs.nasa.gov/citations/20220017721",
+      "summary": ""
+    },
+    {
+      "name": "Visualizing Corridors in Terminal Airspace Using Trajectory Clustering",
+      "type": "conference",
+      "author": "Carlos Paradis, and Misty Davies",
+      "publisher": "2022 Digital Avionics Systems Conference (DASC'22)",
+      "releaseDate": "09/2022",
+      "website": "https://ntrs.nasa.gov/citations/20210011508",
+      "summary": ""
+    },        
+    {
+      "name": "Identifying Emerging Safety Threats Through Topic Modeling in the Aviation Safety Reporting System: A Covid-19 Study",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
+      "publisher": "2021 Digital Avionics Systems Conference (DASC'21)",
+      "releaseDate": "10/2021",
+      "website": "https://ntrs.nasa.gov/citations/20210011508",
+      "summary": ""
+    },
+    {
+      "name": "A Survey Protocol to Assess Meaningfulness and Usefulness of Automated Topic Finding in the NASA Aviation Safety Reporting System",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
+      "publisher": "2021 AIAA Aviation Forum",
+      "releaseDate": "06/2021",
+      "website": "https://ntrs.nasa.gov/citations/20220000653",
+      "summary": ""
+    },            
     {
       "name": "Augmenting Topic Finding in the NASA Aviation Safety Reporting System using Topic Modeling",
       "type": "conference",
